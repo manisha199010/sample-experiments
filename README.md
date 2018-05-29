@@ -30,6 +30,7 @@ Or to deploy only the bundle to the author, run
 
     mvn clean install -PautoInstallBundle
 
+
 ## Testing
 
 There are three levels of testing contained in the project:
